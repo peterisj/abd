@@ -100,7 +100,7 @@ $(function () {
 
     setYoutubeMainVideo();
     function setYoutubeMainVideo() {
-        $mainVideo.append($('<div><img src="' + cleanUrl + 'assets/img/video/poster-0.png"><div class="play"></div></div>'));
+        $mainVideo.append($('<div><img src="' + cleanUrl + 'assets/img/video/IMG_5534.JPG"><div class="play"></div></div>'));
         $reviewVideo.append($('<div><img src="' + cleanUrl + 'assets/img/video/review2017.png"><div class="play"></div></div>'));
 
         $mainVideo.on('click', function () {
